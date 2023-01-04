@@ -5,3 +5,5 @@ To view this console application:
   - Username: guest
   - Password: guest
   - Once logged in, type "battleship" at the command prompt to begin
+
+<img width="790" alt="image" src="https://user-images.githubusercontent.com/13876640/210657146-d2526a3e-e374-405a-802b-382b81f501fa.png">
